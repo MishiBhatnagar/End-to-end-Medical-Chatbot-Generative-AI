@@ -1,4 +1,0 @@
-build-essential
-python3-dev
-libopenblas-dev
-libatlas-base-dev
